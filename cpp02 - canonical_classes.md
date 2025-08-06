@@ -59,7 +59,7 @@ int main(int, char**)
 
 - [What is a copy constructor ?](https://www.youtube.com/watch?v=UYYoq784pQY) (video)
 
-**Copy constructor uses**
+### Copy constructor uses
 
 - Obviously duplicating an object,
 - When passing an instant by value to a method, the copy constructor is called to ensure that no modifications occur on the original instance,

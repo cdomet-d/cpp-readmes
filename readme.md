@@ -7,14 +7,28 @@
 - [CPPreference](https://en.cppreference.com/w/)
   - This one a little dense. Use it like a man, to know functions parameters and uses, etc...
 
-# Summary
+## Summary
+
+### cpp02
 
 - [cpp02/bsp](cpp02%20-%20bsp.md)
 - [cpp02/canonical_classes](cpp02%20-%20canonical_classes.md)
 - [cpp02/floating_points_numbers](cpp02%20-%20floating_points_numbers.md)
 - [cpp02/operator_overload](cpp02%20-%20operator_overload.md)
+
+### cpp03
+
 - [cpp03/inheritance](cpp03%20-%20inheritance.md)
+
+### cpp06
+
 - [cpp06/cast](cpp06%20-%20cast.md)
+
+### cpp07
+
 - [cpp07/templates](cpp07%20-%20templates.md)
+
+### cpp08
+
 - [cpp08/containers](cpp08%20-%20containers.md)
 - [cpp08/reverse-iterator](cpp08%20-%20reverse-iterator.md)

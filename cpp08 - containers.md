@@ -1,10 +1,10 @@
 # Content table
 
 - [Content table](#content-table)
-	- [Definition](#definition)
-	- [Sequence containers](#sequence-containers)
-	- [Associative containers](#associative-containers)
-	- [Sources](#sources)
+  - [Definition](#definition)
+  - [Sequence containers](#sequence-containers)
+  - [Associative containers](#associative-containers)
+  - [Sources](#sources)
 
 ## [Definition](https://en.cppreference.com/w/cpp/named_req/Container)
 
