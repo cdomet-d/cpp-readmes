@@ -32,3 +32,7 @@
 
 - [cpp08/containers](cpp08%20-%20containers.md)
 - [cpp08/reverse-iterator](cpp08%20-%20reverse-iterator.md)
+
+## cpp09
+
+- [cpp09/the-dreaded-FJA](cpp09_merge-insert-algorithm)
