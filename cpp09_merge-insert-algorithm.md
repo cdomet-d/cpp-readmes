@@ -493,6 +493,6 @@ Inserting numbers using Jacobstahl sequence allows us to
 
 -- 
 
-Hello, this is Coralie from almost a year. Since life happened a lot in the year of our lord 2025, I never managed to finish this readme. Very fortunately, the FJA is not longer relevant to the life of the average 42 student, and I must admit I am reluctant to pick this up after almost a year. I was writting this mostly as a way to help out fellow students.
+Hello, this is Coralie from almost a year later. Since life happened a lot in the year of our lord 2025, I never managed to finish this readme. Very fortunately, the FJA is not longer relevant to the life of the average 42 student, and I must admit I am reluctant to pick this up after almost a year. I was writting this mostly as a way to help out fellow students.
 
 As I found the way I left this document to be extremely amusing, I am letting this be. Please feel welcome to fork and PR if you would like to fix this !
