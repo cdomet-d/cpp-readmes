@@ -35,4 +35,4 @@
 
 ## cpp09
 
-- [cpp09/the-dreaded-FJA](cpp09_merge-insert-algorithm)
+- [cpp09/the-dreaded-FJA](cpp09_merge-insert-algorithm.md)
